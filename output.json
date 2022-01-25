@@ -1,0 +1,65 @@
+{
+    "id": "",
+    "title": "",
+    "alternative": "",
+    "creator": {
+        "Author": [
+            {
+                "FirstName": "",
+                "LastName": ""
+            }
+        ],
+        "supervisor": [
+            {
+                "FirstName": "",
+                "LastName": ""
+            }
+        ],
+        "consultant": [
+            {
+                "FirstName": "",
+                "LastName": ""
+            }
+        ]
+    },
+    "languege": "",
+    "collage": "",
+    "acceptedDate": "",
+    "references": [
+        {
+            "Reffered": [
+                {
+                    "RefferedText": "",
+                    "RefferedPage": "",
+                    "pageNo": ""
+                }
+            ],
+            "RefferenceAuthor": [
+                {
+                    "FirstName": "",
+                    "LastName": ""
+                }
+            ],
+            "Title": "",
+            "Year": "",
+            "LOC": "",
+            "DOI": ""
+        }
+    ],
+    "footnotes": [
+        {
+            "pageNo": "",
+            "footedText": "",
+            "footNote": ""
+        }
+    ],
+    "Sections": [
+        {
+            "title": "",
+            "Text": "",
+            "Parent": ""
+        }
+    ],
+    "abstract": "",
+    "textBody": ""
+}
